@@ -3,7 +3,7 @@
   "title": "پیام سرور",
   "text": "تو گروه تلگراممون عضو نمیشی؟",
   "ok_button": "عضویت در گروه",
-  "cancel_button": "بستن",
+  "cancel_button": "بستن تبلیغات",
   "url": "https://t.me/+8A3fUnBoDiEyMzJk",
   "action": "tg:join?invite=8A3fUnBoDiEyMzJk",
   "is_necessary": false
